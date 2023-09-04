@@ -1,2 +1,2 @@
 # Practicing Git
-hello world
+Git is a good tool for every developer:)
